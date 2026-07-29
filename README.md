@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ayush-munde/leetcode-problems-/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/ayush-munde/leetcode-problems-/tree/master/0493-reverse-pairs) |
+| [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
@@ -68,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ayush-munde/leetcode-problems-/tree/master/0078-subsets) |
+| [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
