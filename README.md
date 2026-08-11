@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ayush-munde/leetcode-problems-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayush-munde/leetcode-problems-/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
