@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ayush-munde/leetcode-problems-/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ayush-munde/leetcode-problems-/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/ayush-munde/leetcode-problems-/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
