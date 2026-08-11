@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0018-4sum) |
+| [0151-reverse-words-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
