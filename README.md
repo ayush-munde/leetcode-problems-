@@ -162,4 +162,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayush-munde/leetcode-problems-/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/0938-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
