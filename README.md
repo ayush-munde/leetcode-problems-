@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ayush-munde/leetcode-problems-/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/ayush-munde/leetcode-problems-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayush-munde/leetcode-problems-/tree/master/0162-find-peak-element) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0493-reverse-pairs](https://github.com/ayush-munde/leetcode-problems-/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -178,11 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
