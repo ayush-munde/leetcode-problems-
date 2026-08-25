@@ -166,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0098-validate-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0098-validate-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -181,5 +183,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0098-validate-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/0938-range-sum-of-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
