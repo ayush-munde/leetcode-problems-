@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-munde/leetcode-problems-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ayush-munde/leetcode-problems-/tree/master/1539-kth-missing-positive-number) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ayush-munde/leetcode-problems-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ayush-munde/leetcode-problems-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ayush-munde/leetcode-problems-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ayush-munde/leetcode-problems-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ayush-munde/leetcode-problems-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayush-munde/leetcode-problems-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0142-linked-list-cycle-ii) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ayush-munde/leetcode-problems-/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
