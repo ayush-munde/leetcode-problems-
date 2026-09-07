@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-munde/leetcode-problems-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ayush-munde/leetcode-problems-/tree/master/1539-kth-missing-positive-number) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ayush-munde/leetcode-problems-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayush-munde/leetcode-problems-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ayush-munde/leetcode-problems-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ayush-munde/leetcode-problems-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
 | ------- |
