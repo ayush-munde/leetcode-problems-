@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/ayush-munde/leetcode-problems-/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/ayush-munde/leetcode-problems-/tree/master/0905-sort-array-by-parity) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayush-munde/leetcode-problems-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-munde/leetcode-problems-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ayush-munde/leetcode-problems-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-munde/leetcode-problems-/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/ayush-munde/leetcode-problems-/tree/master/0905-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush-munde/leetcode-problems-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/ayush-munde/leetcode-problems-/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ayush-munde/leetcode-problems-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
