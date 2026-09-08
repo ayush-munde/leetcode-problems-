@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ayush-munde/leetcode-problems-/tree/master/1539-kth-missing-positive-number) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayush-munde/leetcode-problems-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ayush-munde/leetcode-problems-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayush-munde/leetcode-problems-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ayush-munde/leetcode-problems-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
