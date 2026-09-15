@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ayush-munde/leetcode-problems-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ayush-munde/leetcode-problems-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ayush-munde/leetcode-problems-/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayush-munde/leetcode-problems-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ayush-munde/leetcode-problems-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayush-munde/leetcode-problems-/tree/master/0242-valid-anagram) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/0938-range-sum-of-bst) |
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayush-munde/leetcode-problems-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/2460-apply-operations-to-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
