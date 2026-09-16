@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ayush-munde/leetcode-problems-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/ayush-munde/leetcode-problems-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ayush-munde/leetcode-problems-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ayush-munde/leetcode-problems-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/ayush-munde/leetcode-problems-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ayush-munde/leetcode-problems-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0090-subsets-ii) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ayush-munde/leetcode-problems-/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/ayush-munde/leetcode-problems-/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
