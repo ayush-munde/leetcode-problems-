@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ayush-munde/leetcode-problems-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0922-sort-array-by-parity-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayush-munde/leetcode-problems-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1219-path-with-maximum-gold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1219-path-with-maximum-gold) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-munde/leetcode-problems-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ayush-munde/leetcode-problems-/tree/master/1539-kth-missing-positive-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/ayush-munde/leetcode-problems-/tree/master/0282-expression-add-operators) |
+| [1219-path-with-maximum-gold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1219-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ayush-munde/leetcode-problems-/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
+| [1219-path-with-maximum-gold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1219-path-with-maximum-gold) |
 ## Algorithm X
 |  |
 | ------- |
