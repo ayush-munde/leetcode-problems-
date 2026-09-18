@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ayush-munde/leetcode-problems-/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/ayush-munde/leetcode-problems-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0922-sort-array-by-parity-ii) |
+| [0980-unique-paths-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0980-unique-paths-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayush-munde/leetcode-problems-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1219-path-with-maximum-gold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1219-path-with-maximum-gold) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/ayush-munde/leetcode-problems-/tree/master/0282-expression-add-operators) |
+| [0980-unique-paths-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1219-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ayush-munde/leetcode-problems-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
+| [0980-unique-paths-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0980-unique-paths-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ayush-munde/leetcode-problems-/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1219-path-with-maximum-gold) |
 ## Algorithm X
 |  |
@@ -319,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ayush-munde/leetcode-problems-/tree/master/0037-sudoku-solver) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
