@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/ayush-munde/leetcode-problems-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ayush-munde/leetcode-problems-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayush-munde/leetcode-problems-/tree/master/0162-find-peak-element) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ayush-munde/leetcode-problems-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ayush-munde/leetcode-problems-/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
 | [0980-unique-paths-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0980-unique-paths-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ayush-munde/leetcode-problems-/tree/master/2220-minimum-bit-flips-to-convert-number) |
