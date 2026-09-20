@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush-munde/leetcode-problems-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/0234-palindrome-linked-list) |
+| [0556-next-greater-element-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ayush-munde/leetcode-problems-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0922-sort-array-by-parity-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ayush-munde/leetcode-problems-/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/ayush-munde/leetcode-problems-/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-munde/leetcode-problems-/tree/master/0451-sort-characters-by-frequency) |
+| [0556-next-greater-element-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0556-next-greater-element-iii) |
 | [0796-rotate-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ayush-munde/leetcode-problems-/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/ayush-munde/leetcode-problems-/tree/master/0204-count-primes) |
 | [0282-expression-add-operators](https://github.com/ayush-munde/leetcode-problems-/tree/master/0282-expression-add-operators) |
+| [0556-next-greater-element-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0556-next-greater-element-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/ayush-munde/leetcode-problems-/tree/master/1922-count-good-numbers) |
 ## String Matching
