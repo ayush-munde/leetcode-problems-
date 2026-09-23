@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-munde/leetcode-problems-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayush-munde/leetcode-problems-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ayush-munde/leetcode-problems-/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/ayush-munde/leetcode-problems-/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayush-munde/leetcode-problems-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ayush-munde/leetcode-problems-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0142-linked-list-cycle-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ayush-munde/leetcode-problems-/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayush-munde/leetcode-problems-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/ayush-munde/leetcode-problems-/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ayush-munde/leetcode-problems-/tree/master/0205-isomorphic-strings) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-munde/leetcode-problems-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ayush-munde/leetcode-problems-/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/ayush-munde/leetcode-problems-/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayush-munde/leetcode-problems-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
