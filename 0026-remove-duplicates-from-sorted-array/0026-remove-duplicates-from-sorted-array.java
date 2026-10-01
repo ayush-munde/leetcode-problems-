@@ -2,19 +2,18 @@ class Solution {
     public int removeDuplicates(int[] nums) {
         
         int n=nums.length;
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(nums[i]==nums[j]){
-                    for(int k=j;k<n-1;k++){
-                        nums[k]=nums[k+1];
-
-                    }
-                   n--;
-                    j--;
-                }
-                 
+        int uniquePosition = 1;
+ 
+        for (int current = 1; current < n; current++) {
+            /*
+             * A different value means a new
+             * unique element has been found.
+             */
+            if (nums[current] != nums[uniquePosition - 1]) {
+                nums[uniquePosition] = nums[current];
+                uniquePosition++;
             }
         }
-        return n;
+        return uniquePosition;
     }
 }
