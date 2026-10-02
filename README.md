@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0930-binary-subarrays-with-sum) |
 | [0980-unique-paths-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0980-unique-paths-iii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ayush-munde/leetcode-problems-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayush-munde/leetcode-problems-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1219-path-with-maximum-gold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1219-path-with-maximum-gold) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/ayush-munde/leetcode-problems-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ayush-munde/leetcode-problems-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayush-munde/leetcode-problems-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-munde/leetcode-problems-/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ayush-munde/leetcode-problems-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayush-munde/leetcode-problems-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ayush-munde/leetcode-problems-/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/ayush-munde/leetcode-problems-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ayush-munde/leetcode-problems-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayush-munde/leetcode-problems-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
