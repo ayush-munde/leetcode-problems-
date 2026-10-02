@@ -1,27 +1,16 @@
 class Solution {
     public ListNode middleNode(ListNode head) {
 
-        ListNode temp = head;
+        ListNode  slow = head;
+        
+        ListNode  fast= head;
         int size = 0;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
 
-        // Find size
-        while (temp != null) {
-            temp = temp.next;
-            size++;
         }
-
-        // Number of steps to reach middle
-        int a = size / 2;
-
-        temp = head;
-        int i = 0;
-
-        // Move to middle
-        while (i < a) {
-            temp = temp.next;
-            i++;
-        }
-
-        return temp;
+        return slow;
+      
     }
 }
