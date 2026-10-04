@@ -41,18 +41,14 @@ class Solution {
         
     }
     public ListNode mergeKLists(ListNode[] lists) {
-        
+          if(lists==null || lists.length==0) return null;
      
-        ListNode head=null;
-        int i=0;
-        while(i<lists.length){
-            if(lists[i]==null ) {
-                i++;
-                continue;
+         int k=lists.length;
+         for(int gap=1;gap<k;gap*=2){
+            for(int i=0;i+gap<k;i+=2*gap){
+                lists[i]=mergeTwoLists(lists[i],lists[i+gap]);
             }
-            head=mergeTwoLists(head,lists[i]); 
-            i++;
-        }
-        return head;
+         }
+         return lists[0];
 }
 }
