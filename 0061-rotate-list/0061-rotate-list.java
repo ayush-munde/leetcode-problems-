@@ -16,15 +16,14 @@ class Solution {
         }
 
         int size = 1;
-        ListNode temp = head;
-   ListNode tail;
+           ListNode tail=head;
         // Find size
-        while (temp.next!= null) {
+        while (tail.next!= null) {
             size++;
-            temp = temp.next;
+            tail= tail.next;
           
         }
-          tail=temp;
+      
         
         k = k % size;
 
@@ -33,7 +32,7 @@ class Solution {
         }
 
         // Find the node before the new head
-        temp = head;
+        ListNode temp = head;
          tail.next=head;
         int i = 0;
         while (i < size - k-1) {
