@@ -5,7 +5,7 @@ class Solution {
             return null;
 
         // Find size
-        ListNode temp = head;
+        ListNode temp= head;
         int size = 0;
 
         while(temp != null){
@@ -18,17 +18,21 @@ class Solution {
             return head.next;
         }
 
-        // Reach node before the target
-        int i = 1;
-        temp = head;
+      ListNode slow=head;
+      ListNode fast=head;
+  int i=0;
 
-        while(i < size - n){
-            temp = temp.next;
+        while(i < n){
+            fast= fast.next;
             i++;
         }
-
+           while(fast.next!=null){
+            fast=fast.next;
+            slow= slow.next;
+           
+        }
         // Remove target
-        temp.next = temp.next.next;
+        slow.next = slow.next.next;
 
         return head;
     }
