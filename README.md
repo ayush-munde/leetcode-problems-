@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayush-munde/leetcode-problems-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/ayush-munde/leetcode-problems-/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ayush-munde/leetcode-problems-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ayush-munde/leetcode-problems-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ayush-munde/leetcode-problems-/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/ayush-munde/leetcode-problems-/tree/master/0282-expression-add-operators) |
 | [0980-unique-paths-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0980-unique-paths-iii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ayush-munde/leetcode-problems-/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/ayush-munde/leetcode-problems-/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ayush-munde/leetcode-problems-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayush-munde/leetcode-problems-/tree/master/0242-valid-anagram) |
