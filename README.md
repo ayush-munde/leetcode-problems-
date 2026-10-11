@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/ayush-munde/leetcode-problems-/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/ayush-munde/leetcode-problems-/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/ayush-munde/leetcode-problems-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayush-munde/leetcode-problems-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/ayush-munde/leetcode-problems-/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/ayush-munde/leetcode-problems-/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ayush-munde/leetcode-problems-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0410-split-array-largest-sum) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush-munde/leetcode-problems-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ayush-munde/leetcode-problems-/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ayush-munde/leetcode-problems-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ayush-munde/leetcode-problems-/tree/master/0860-lemonade-change) |
