@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayush-munde/leetcode-problems-/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/ayush-munde/leetcode-problems-/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -424,8 +425,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayush-munde/leetcode-problems-/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/ayush-munde/leetcode-problems-/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayush-munde/leetcode-problems-/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ayush-munde/leetcode-problems-/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ayush-munde/leetcode-problems-/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
