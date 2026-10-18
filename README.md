@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ayush-munde/leetcode-problems-/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/ayush-munde/leetcode-problems-/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/ayush-munde/leetcode-problems-/tree/master/0860-lemonade-change) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ayush-munde/leetcode-problems-/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/ayush-munde/leetcode-problems-/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/ayush-munde/leetcode-problems-/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
