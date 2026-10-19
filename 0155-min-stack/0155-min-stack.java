@@ -1,54 +1,52 @@
+
+import java.util.*;
+
 class MinStack {
-   Stack<Integer> s1;
-      Stack<Integer> s2;
-      int min=Integer.MAX_VALUE;
+    Stack<Long> s1;
+    long min = Long.MAX_VALUE;
+
     public MinStack() {
-        s1=new Stack<>();
-        s2=new Stack<>();
-        
+        s1 = new Stack<>();
     }
-    
+
     public void push(int value) {
-        s1.push(value);
-        if(min>=value){
-            s2.push(value);
-            min=value;
+        long val = value;
 
+        if (s1.isEmpty()) {
+            min = val;
+            s1.push(val);
         }
-
-        
+        else if (val < min) {
+            long newVal = 2 * val - min;
+            s1.push(newVal);
+            min = val;
+        }
+        else {
+            s1.push(val);
+        }
     }
-    
+
     public void pop() {
-       int val= s1.pop();
-       if(val==min){
-           s2.pop();
-         if(!s2.isEmpty())  min=s2.peek();
-         else
-          min=Integer.MAX_VALUE;
-           
-       }
-        
-        
-    }
-    
-    public int top() {
-        return s1.peek();
-        
-    }
-    
-    public int getMin() {
-           return min;
+        if (s1.peek() < min) {
+            min = 2 * min - s1.pop();
         }
-        
+        else {
+            s1.pop();
+        }
+
+        if (s1.isEmpty()) {
+            min = Long.MAX_VALUE;
+        }
     }
 
+    public int top() {
+        if (s1.peek() < min) {
+            return (int) min;
+        }
+        return s1.peek().intValue();
+    }
 
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack obj = new MinStack();
- * obj.push(value);
- * obj.pop();
- * int param_3 = obj.top();
- * int param_4 = obj.getMin();
- */
+    public int getMin() {
+        return (int) min;
+    }
+}
