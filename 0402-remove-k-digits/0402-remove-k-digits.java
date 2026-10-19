@@ -34,15 +34,15 @@ class Solution {
 
         sb.reverse();
 
-        // Remove leading zeros
-        while (sb.length() > 0 && sb.charAt(0) == '0') {
-            sb.deleteCharAt(0);
-        }
+     
 
-        if (sb.length() == 0) {
-            return "0";
-        }
+      
+        int i=0;
+        while (i < sb.length() && sb.charAt(i) == '0') {
+    i++;
+}
 
-        return sb.toString();
-    }
+         return i == sb.length() ? "0" : sb.substring(i).toString();
+  
+}
 }
