@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ayush-munde/leetcode-problems-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-munde/leetcode-problems-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/ayush-munde/leetcode-problems-/tree/master/0136-single-number) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-munde/leetcode-problems-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ayush-munde/leetcode-problems-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ayush-munde/leetcode-problems-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayush-munde/leetcode-problems-/tree/master/0232-implement-queue-using-stacks) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-munde/leetcode-problems-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/ayush-munde/leetcode-problems-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0503-next-greater-element-ii) |
@@ -471,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ayush-munde/leetcode-problems-/tree/master/0146-lru-cache) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-munde/leetcode-problems-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
