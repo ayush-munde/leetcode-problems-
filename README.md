@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ayush-munde/leetcode-problems-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ayush-munde/leetcode-problems-/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/ayush-munde/leetcode-problems-/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/0496-next-greater-element-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayush-munde/leetcode-problems-/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/ayush-munde/leetcode-problems-/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-munde/leetcode-problems-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ayush-munde/leetcode-problems-/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ayush-munde/leetcode-problems-/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ayush-munde/leetcode-problems-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ayush-munde/leetcode-problems-/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/ayush-munde/leetcode-problems-/tree/master/0907-sum-of-subarray-minimums) |
 ## Divide and Conquer
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ayush-munde/leetcode-problems-/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/ayush-munde/leetcode-problems-/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ayush-munde/leetcode-problems-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ayush-munde/leetcode-problems-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ayush-munde/leetcode-problems-/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/1382-balance-a-binary-search-tree) |
