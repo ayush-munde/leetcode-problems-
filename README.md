@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayush-munde/leetcode-problems-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ayush-munde/leetcode-problems-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2460-apply-operations-to-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ayush-munde/leetcode-problems-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ayush-munde/leetcode-problems-/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/ayush-munde/leetcode-problems-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0922-sort-array-by-parity-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ayush-munde/leetcode-problems-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayush-munde/leetcode-problems-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ayush-munde/leetcode-problems-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2460-apply-operations-to-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ayush-munde/leetcode-problems-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ayush-munde/leetcode-problems-/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/1382-balance-a-binary-search-tree) |
 | [1903-largest-odd-number-in-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/1903-largest-odd-number-in-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ayush-munde/leetcode-problems-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayush-munde/leetcode-problems-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ayush-munde/leetcode-problems-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -309,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayush-munde/leetcode-problems-/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-munde/leetcode-problems-/tree/master/0451-sort-characters-by-frequency) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ayush-munde/leetcode-problems-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
 | ------- |
