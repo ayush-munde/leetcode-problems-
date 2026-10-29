@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ayush-munde/leetcode-problems-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ayush-munde/leetcode-problems-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ayush-munde/leetcode-problems-/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-munde/leetcode-problems-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-munde/leetcode-problems-/tree/master/1382-balance-a-binary-search-tree) |
 | [1903-largest-odd-number-in-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/1903-largest-odd-number-in-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ayush-munde/leetcode-problems-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ayush-munde/leetcode-problems-/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0556-next-greater-element-iii) |
 | [0796-rotate-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-munde/leetcode-problems-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayush-munde/leetcode-problems-/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ayush-munde/leetcode-problems-/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/ayush-munde/leetcode-problems-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ayush-munde/leetcode-problems-/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-munde/leetcode-problems-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/ayush-munde/leetcode-problems-/tree/master/2104-sum-of-subarray-ranges) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-munde/leetcode-problems-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
