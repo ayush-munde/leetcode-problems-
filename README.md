@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayush-munde/leetcode-problems-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ayush-munde/leetcode-problems-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ayush-munde/leetcode-problems-/tree/master/0141-linked-list-cycle) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ayush-munde/leetcode-problems-/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayush-munde/leetcode-problems-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ayush-munde/leetcode-problems-/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/ayush-munde/leetcode-problems-/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ayush-munde/leetcode-problems-/tree/master/0079-word-search) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0796-rotate-string) |
 ## Stack
@@ -514,13 +517,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
