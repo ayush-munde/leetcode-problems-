@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ayush-munde/leetcode-problems-/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-munde/leetcode-problems-/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0556-next-greater-element-iii) |
+| [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-munde/leetcode-problems-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1021-remove-outermost-parentheses) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0796-rotate-string) |
 ## Stack
 |  |
@@ -509,4 +511,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-munde/leetcode-problems-/tree/master/0084-largest-rectangle-in-histogram) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
