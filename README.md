@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-munde/leetcode-problems-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ayush-munde/leetcode-problems-/tree/master/1539-kth-missing-positive-number) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ayush-munde/leetcode-problems-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2460-apply-operations-to-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ayush-munde/leetcode-problems-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayush-munde/leetcode-problems-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/1903-largest-odd-number-in-string) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Math
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0796-rotate-string) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -519,18 +523,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Database
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/ayush-munde/leetcode-problems-/tree/master/0196-delete-duplicate-emails) |
+## Rolling Hash
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Hash Function
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
