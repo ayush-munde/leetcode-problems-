@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ayush-munde/leetcode-problems-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2460-apply-operations-to-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ayush-munde/leetcode-problems-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0796-rotate-string) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 ## Stack
 |  |
 | ------- |
@@ -544,8 +546,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 ## Hash Function
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 <!---LeetCode Topics End-->
