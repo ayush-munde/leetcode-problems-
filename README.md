@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1219-path-with-maximum-gold) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1408-string-matching-in-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayush-munde/leetcode-problems-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-munde/leetcode-problems-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ayush-munde/leetcode-problems-/tree/master/1539-kth-missing-positive-number) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-munde/leetcode-problems-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1021-remove-outermost-parentheses) |
+| [1408-string-matching-in-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/1408-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayush-munde/leetcode-problems-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/1903-largest-odd-number-in-string) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/1408-string-matching-in-an-array) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 ## Stack
