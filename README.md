@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayush-munde/leetcode-problems-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayush-munde/leetcode-problems-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1023-camelcase-matching](https://github.com/ayush-munde/leetcode-problems-/tree/master/1023-camelcase-matching) |
 | [1219-path-with-maximum-gold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1219-path-with-maximum-gold) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-munde/leetcode-problems-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ayush-munde/leetcode-problems-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/0922-sort-array-by-parity-ii) |
+| [1023-camelcase-matching](https://github.com/ayush-munde/leetcode-problems-/tree/master/1023-camelcase-matching) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-munde/leetcode-problems-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayush-munde/leetcode-problems-/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-munde/leetcode-problems-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1021-remove-outermost-parentheses) |
+| [1023-camelcase-matching](https://github.com/ayush-munde/leetcode-problems-/tree/master/1023-camelcase-matching) |
 | [1408-string-matching-in-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/1408-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayush-munde/leetcode-problems-/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ayush-munde/leetcode-problems-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/0796-rotate-string) |
+| [1023-camelcase-matching](https://github.com/ayush-munde/leetcode-problems-/tree/master/1023-camelcase-matching) |
 | [1408-string-matching-in-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/1408-string-matching-in-an-array) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
@@ -555,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
+## Trie
+|  |
+| ------- |
+| [1023-camelcase-matching](https://github.com/ayush-munde/leetcode-problems-/tree/master/1023-camelcase-matching) |
 <!---LeetCode Topics End-->
