@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-munde/leetcode-problems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayush-munde/leetcode-problems-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ayush-munde/leetcode-problems-/tree/master/1903-largest-odd-number-in-string) |
+| [2156-find-substring-with-given-hash-value](https://github.com/ayush-munde/leetcode-problems-/tree/master/2156-find-substring-with-given-hash-value) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Math
 |  |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/ayush-munde/leetcode-problems-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayush-munde/leetcode-problems-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2156-find-substring-with-given-hash-value](https://github.com/ayush-munde/leetcode-problems-/tree/master/2156-find-substring-with-given-hash-value) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -559,11 +561,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [2156-find-substring-with-given-hash-value](https://github.com/ayush-munde/leetcode-problems-/tree/master/2156-find-substring-with-given-hash-value) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 ## Hash Function
 |  |
 | ------- |
+| [2156-find-substring-with-given-hash-value](https://github.com/ayush-munde/leetcode-problems-/tree/master/2156-find-substring-with-given-hash-value) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 ## Trie
