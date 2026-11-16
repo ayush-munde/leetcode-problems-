@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayush-munde/leetcode-problems-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2261-k-divisible-elements-subarrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/2261-k-divisible-elements-subarrays) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ayush-munde/leetcode-problems-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2460-apply-operations-to-an-array](https://github.com/ayush-munde/leetcode-problems-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ayush-munde/leetcode-problems-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayush-munde/leetcode-problems-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/ayush-munde/leetcode-problems-/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2261-k-divisible-elements-subarrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/2261-k-divisible-elements-subarrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ayush-munde/leetcode-problems-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayush-munde/leetcode-problems-/tree/master/0204-count-primes) |
+| [2261-k-divisible-elements-subarrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/2261-k-divisible-elements-subarrays) |
 ## Number Theory
 |  |
 | ------- |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/ayush-munde/leetcode-problems-/tree/master/1044-longest-duplicate-substring) |
 | [2156-find-substring-with-given-hash-value](https://github.com/ayush-munde/leetcode-problems-/tree/master/2156-find-substring-with-given-hash-value) |
+| [2261-k-divisible-elements-subarrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/2261-k-divisible-elements-subarrays) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 ## Hash Function
@@ -576,12 +580,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/ayush-munde/leetcode-problems-/tree/master/1044-longest-duplicate-substring) |
 | [2156-find-substring-with-given-hash-value](https://github.com/ayush-munde/leetcode-problems-/tree/master/2156-find-substring-with-given-hash-value) |
+| [2261-k-divisible-elements-subarrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/2261-k-divisible-elements-subarrays) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ayush-munde/leetcode-problems-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ayush-munde/leetcode-problems-/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 ## Trie
 |  |
 | ------- |
 | [1023-camelcase-matching](https://github.com/ayush-munde/leetcode-problems-/tree/master/1023-camelcase-matching) |
+| [2261-k-divisible-elements-subarrays](https://github.com/ayush-munde/leetcode-problems-/tree/master/2261-k-divisible-elements-subarrays) |
 ## Suffix Array
 |  |
 | ------- |
